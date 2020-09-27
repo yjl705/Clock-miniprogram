@@ -1,6 +1,7 @@
 <!--pages/author/author.wxml-->
-<text>作者是一个前端程序员</text>
+<text>本程序修改自禅定时钟</text>
 <text>欢迎技术探讨和bug反馈</text>
-<text>联系方式：</text>
-<text>QQ：1003857254</text>
-<text>微信：17861622986</text>
+<text>GitHub地址：</text>
+<text>https://github.com/yjl705/Clock-miniprogram</text>
+<text>开发小组成员：</text>
+<text>袁家洛 汪胜 谢云丽 朱姝雯 王沁祺</text>
