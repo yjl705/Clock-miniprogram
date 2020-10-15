@@ -2,8 +2,9 @@
 
 	<view class="avatar-wrapper">
 		<view>
+	
 			<view class="avatar">
-				<image style="border-radius:50%;" src="{{userinfo.avatarUrl ? userinfo.avatarUrl:'/images/user1.png'}}"></image>
+				<image style="border-radius:50%;" src="{{userinfo.avatarUrl ? userinfo.avatarUrl:'/images/xiangyun.jpg'}}"></image>
 			</view>
 			<view class="text" wx:if="{{name}}">
 				<text>{{name}}</text>
